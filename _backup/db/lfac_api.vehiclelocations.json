@@ -1,0 +1,4512 @@
+[{
+  "_id": {
+    "$oid": "69ff58209b6aac9df5da9d59"
+  },
+  "reg": "VH-LF5",
+  "lat": -27.44682,
+  "lon": 153.0296,
+  "created_at": {
+    "$date": "2026-05-09T15:51:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF5-1778341919000"
+},
+{
+  "_id": {
+    "$oid": "69ff5e389b6aac9df5da9d66"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59859,
+  "lon": 153.08218,
+  "created_at": {
+    "$date": "2026-05-09T16:17:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF5-1778341919000"
+},
+{
+  "_id": {
+    "$oid": "69ff64c89b6aac9df5da9d67"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59859,
+  "lon": 153.08218,
+  "created_at": {
+    "$date": "2026-05-09T16:45:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF5-1778345157000"
+},
+{
+  "_id": {
+    "$oid": "69ff66a89b6aac9df5da9d6b"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.42514,
+  "lon": 153.06836,
+  "created_at": {
+    "$date": "2026-05-09T16:53:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF5-1778345157000"
+},
+{
+  "_id": {
+    "$oid": "69ff6f909b6aac9df5da9d6c"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.42649,
+  "lon": 153.07071,
+  "created_at": {
+    "$date": "2026-05-09T17:32:00.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF5-1778347920000"
+},
+{
+  "_id": {
+    "$oid": "69ff71e89b6aac9df5da9d71"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59859,
+  "lon": 153.08217,
+  "created_at": {
+    "$date": "2026-05-09T17:41:08.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF5-1778347920000"
+},
+{
+  "_id": {
+    "$oid": "69ff79689b6aac9df5da9d72"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.38341,
+  "lon": 153.13713,
+  "created_at": {
+    "$date": "2026-05-09T18:13:54.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF3-1778350434000"
+},
+{
+  "_id": {
+    "$oid": "69ff7ff89b6aac9df5da9d80"
+  },
+  "reg": "VH-LF3",
+  "lat": -26.42477,
+  "lon": 153.06786,
+  "created_at": {
+    "$date": "2026-05-09T18:41:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF3-1778350434000"
+},
+{
+  "_id": {
+    "$oid": "69ff85989b6aac9df5da9d81"
+  },
+  "reg": "VH-LF3",
+  "lat": -26.43343,
+  "lon": 153.05324,
+  "created_at": {
+    "$date": "2026-05-09T19:06:00.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF3-1778353560000"
+},
+{
+  "_id": {
+    "$oid": "69ff8d909b6aac9df5da9d92"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.44695,
+  "lon": 153.02832,
+  "created_at": {
+    "$date": "2026-05-09T19:39:53.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF3-1778353560000"
+},
+{
+  "_id": {
+    "$oid": "69ff96f09b6aac9df5da9d93"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.40782,
+  "lon": 153.07974,
+  "created_at": {
+    "$date": "2026-05-09T20:19:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF3-1778357999000"
+},
+{
+  "_id": {
+    "$oid": "69ff97e09b6aac9df5da9d95"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.38355,
+  "lon": 153.13646,
+  "created_at": {
+    "$date": "2026-05-09T20:23:56.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF3-1778357999000"
+},
+{
+  "_id": {
+    "$oid": "69ffb5689b6aac9df5da9d96"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.38345,
+  "lon": 153.13728,
+  "created_at": {
+    "$date": "2026-05-09T22:29:55.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF3-1778365795000"
+},
+{
+  "_id": {
+    "$oid": "69ffc1209b6aac9df5da9daf"
+  },
+  "reg": "VH-LF3",
+  "lat": -28.1486,
+  "lon": 151.94431,
+  "created_at": {
+    "$date": "2026-05-09T23:19:25.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF3-1778365795000"
+},
+{
+  "_id": {
+    "$oid": "69ffca809b6aac9df5da9db0"
+  },
+  "reg": "VH-LF3",
+  "lat": -28.1486,
+  "lon": 151.94432,
+  "created_at": {
+    "$date": "2026-05-10T00:00:01.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF3-1778371201000"
+},
+{
+  "_id": {
+    "$oid": "69ffd0209b6aac9df5da9dbc"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.57052,
+  "lon": 151.94595,
+  "created_at": {
+    "$date": "2026-05-10T00:23:18.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF3-1778371201000"
+},
+{
+  "_id": {
+    "$oid": "69ffd3e09b6aac9df5da9dbd"
+  },
+  "reg": "VH-OFC",
+  "lat": 1.41011,
+  "lon": 103.86556,
+  "created_at": {
+    "$date": "2026-05-10T00:39:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFC-1778373599000"
+},
+{
+  "_id": {
+    "$oid": "69ffd5c09b6aac9df5da9dc1"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.57055,
+  "lon": 151.94594,
+  "created_at": {
+    "$date": "2026-05-10T00:47:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF3-1778374077000"
+},
+{
+  "_id": {
+    "$oid": "69ffd8189b6aac9df5da9dcb"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.54449,
+  "lon": 151.91835,
+  "created_at": {
+    "$date": "2026-05-10T00:58:00.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF3-1778374077000"
+},
+{
+  "_id": {
+    "$oid": "69ffdcc89b6aac9df5da9dd6"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.54449,
+  "lon": 151.91835,
+  "created_at": {
+    "$date": "2026-05-10T01:17:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF3-1778375876000"
+},
+{
+  "_id": {
+    "$oid": "69ffdea89b6aac9df5da9de0"
+  },
+  "reg": "VH-OFB",
+  "lat": -19.25392,
+  "lon": 146.77072,
+  "created_at": {
+    "$date": "2026-05-10T01:26:01.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFB-1778376361000"
+},
+{
+  "_id": {
+    "$oid": "69ffe3589b6aac9df5da9dfd"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59894,
+  "lon": 153.08258,
+  "created_at": {
+    "$date": "2026-05-10T01:46:01.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF5-1778377561000"
+},
+{
+  "_id": {
+    "$oid": "69ffe4489b6aac9df5da9e05"
+  },
+  "reg": "VH-LF3",
+  "lat": -26.53184,
+  "lon": 151.83951,
+  "created_at": {
+    "$date": "2026-05-10T01:49:51.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF3-1778375876000"
+},
+{
+  "_id": {
+    "$oid": "69ffe8809b6aac9df5da9e1d"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.88414,
+  "lon": 152.27118,
+  "created_at": {
+    "$date": "2026-05-10T02:07:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF5-1778377561000"
+},
+{
+  "_id": {
+    "$oid": "69ffe8809b6aac9df5da9e1f"
+  },
+  "reg": "VH-OFB",
+  "lat": -17.94971,
+  "lon": 151.12381,
+  "created_at": {
+    "$date": "2026-05-10T02:07:56.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFB-1778376361000"
+},
+{
+  "_id": {
+    "$oid": "69ffeb509b6aac9df5da9e26"
+  },
+  "reg": "VH-OFB",
+  "lat": -17.61471,
+  "lon": 152.81993,
+  "created_at": {
+    "$date": "2026-05-10T02:19:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFB-1778379599000"
+},
+{
+  "_id": {
+    "$oid": "69ffecb89b6aac9df5da9e2b"
+  },
+  "reg": "VH-LF3",
+  "lat": -26.56624,
+  "lon": 151.84019,
+  "created_at": {
+    "$date": "2026-05-10T02:25:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF3-1778379956000"
+},
+{
+  "_id": {
+    "$oid": "69ffeda89b6aac9df5da9e32"
+  },
+  "reg": "VH-OFC",
+  "lat": -10.0045,
+  "lon": 105.64867,
+  "created_at": {
+    "$date": "2026-05-10T02:28:21.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFC-1778373599000"
+},
+{
+  "_id": {
+    "$oid": "69ffef889b6aac9df5da9e3b"
+  },
+  "reg": "VH-OFC",
+  "lat": -10.4528,
+  "lon": 105.69125,
+  "created_at": {
+    "$date": "2026-05-10T02:37:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFC-1778380677000"
+},
+{
+  "_id": {
+    "$oid": "69fff0009b6aac9df5da9e3e"
+  },
+  "reg": "VH-OFC",
+  "lat": -10.4508,
+  "lon": 105.68927,
+  "created_at": {
+    "$date": "2026-05-10T02:39:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFC-1778380677000"
+},
+{
+  "_id": {
+    "$oid": "69fff0009b6aac9df5da9e3f"
+  },
+  "reg": "VH-OFB",
+  "lat": -17.00694,
+  "lon": 155.71489,
+  "created_at": {
+    "$date": "2026-05-10T02:39:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFB-1778379599000"
+},
+{
+  "_id": {
+    "$oid": "69fff0f09b6aac9df5da9e42"
+  },
+  "reg": "VH-OFB",
+  "lat": -16.88185,
+  "lon": 156.29129,
+  "created_at": {
+    "$date": "2026-05-10T02:43:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFB-1778381036000"
+},
+{
+  "_id": {
+    "$oid": "69fff3c09b6aac9df5da9e4d"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.54445,
+  "lon": 151.91824,
+  "created_at": {
+    "$date": "2026-05-10T02:55:17.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF3-1778379956000"
+},
+{
+  "_id": {
+    "$oid": "69fff4389b6aac9df5da9e4f"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.88545,
+  "lon": 152.21648,
+  "created_at": {
+    "$date": "2026-05-10T02:57:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF5-1778381877000"
+},
+{
+  "_id": {
+    "$oid": "69fff7089b6aac9df5da9e5c"
+  },
+  "reg": "VH-OFB",
+  "lat": -16.27805,
+  "lon": 160.05582,
+  "created_at": {
+    "$date": "2026-05-10T03:09:55.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFB-1778381036000"
+},
+{
+  "_id": {
+    "$oid": "69fff7f89b6aac9df5da9e5f"
+  },
+  "reg": "VH-OFB",
+  "lat": -16.1922,
+  "lon": 160.65472,
+  "created_at": {
+    "$date": "2026-05-10T03:13:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFB-1778382837000"
+},
+{
+  "_id": {
+    "$oid": "69fff8709b6aac9df5da9e60"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.54342,
+  "lon": 151.91927,
+  "created_at": {
+    "$date": "2026-05-10T03:15:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF3-1778382958000"
+},
+{
+  "_id": {
+    "$oid": "69fffac89b6aac9df5da9e70"
+  },
+  "reg": "VH-LF5",
+  "lat": -27.44693,
+  "lon": 153.02823,
+  "created_at": {
+    "$date": "2026-05-10T03:25:33.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF5-1778381877000"
+},
+{
+  "_id": {
+    "$oid": "69fffe109b6aac9df5da9e7f"
+  },
+  "reg": "VH-OFB",
+  "lat": -15.78697,
+  "lon": 164.42056,
+  "created_at": {
+    "$date": "2026-05-10T03:39:54.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFB-1778382837000"
+},
+{
+  "_id": {
+    "$oid": "69ffff009b6aac9df5da9e82"
+  },
+  "reg": "VH-OFB",
+  "lat": -15.73201,
+  "lon": 164.98225,
+  "created_at": {
+    "$date": "2026-05-10T03:43:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFB-1778384638000"
+},
+{
+  "_id": {
+    "$oid": "69ffff789b6aac9df5da9e83"
+  },
+  "reg": "VH-LF3",
+  "lat": -26.53254,
+  "lon": 151.83961,
+  "created_at": {
+    "$date": "2026-05-10T03:45:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF3-1778382958000"
+},
+{
+  "_id": {
+    "$oid": "69fffff09b6aac9df5da9e85"
+  },
+  "reg": "VH-OFC",
+  "lat": -10.44967,
+  "lon": 105.69097,
+  "created_at": {
+    "$date": "2026-05-10T03:47:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFC-1778384879000"
+},
+{
+  "_id": {
+    "$oid": "6a0000e09b6aac9df5da9e89"
+  },
+  "reg": "VH-OFC",
+  "lat": -10.454,
+  "lon": 105.69131,
+  "created_at": {
+    "$date": "2026-05-10T03:51:44.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFC-1778384879000"
+},
+{
+  "_id": {
+    "$oid": "6a0001d09b6aac9df5da9e8c"
+  },
+  "reg": "VH-OFB",
+  "lat": -15.5603,
+  "lon": 166.7034,
+  "created_at": {
+    "$date": "2026-05-10T03:55:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFB-1778384638000"
+},
+{
+  "_id": {
+    "$oid": "6a0003b09b6aac9df5da9e8d"
+  },
+  "reg": "VH-OFC",
+  "lat": -11.44379,
+  "lon": 106.01624,
+  "created_at": {
+    "$date": "2026-05-10T04:03:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFC-1778385839000"
+},
+{
+  "_id": {
+    "$oid": "6a0004a09b6aac9df5da9e8f"
+  },
+  "reg": "VH-LF5",
+  "lat": -27.43414,
+  "lon": 152.9968,
+  "created_at": {
+    "$date": "2026-05-10T04:07:55.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF5-1778386075000"
+},
+{
+  "_id": {
+    "$oid": "6a0009c89b6aac9df5da9ea6"
+  },
+  "reg": "VH-OFC",
+  "lat": -14.54827,
+  "lon": 107.03117,
+  "created_at": {
+    "$date": "2026-05-10T04:29:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFC-1778385839000"
+},
+{
+  "_id": {
+    "$oid": "6a000ab89b6aac9df5da9ea9"
+  },
+  "reg": "VH-OFC",
+  "lat": -15.03014,
+  "lon": 107.19157,
+  "created_at": {
+    "$date": "2026-05-10T04:33:55.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFC-1778387635000"
+},
+{
+  "_id": {
+    "$oid": "6a000b309b6aac9df5da9eaa"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59863,
+  "lon": 153.08224,
+  "created_at": {
+    "$date": "2026-05-10T04:35:31.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF5-1778386075000"
+},
+{
+  "_id": {
+    "$oid": "6a000e789b6aac9df5da9eb3"
+  },
+  "reg": "VH-URR",
+  "lat": -27.38346,
+  "lon": 153.13663,
+  "created_at": {
+    "$date": "2026-05-10T04:50:00.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-URR-1778388600000"
+},
+{
+  "_id": {
+    "$oid": "6a000fe09b6aac9df5da9eb8"
+  },
+  "reg": "VH-LF3",
+  "lat": -26.53253,
+  "lon": 151.8396,
+  "created_at": {
+    "$date": "2026-05-10T04:55:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF3-1778388956000"
+},
+{
+  "_id": {
+    "$oid": "6a0010d09b6aac9df5da9ebf"
+  },
+  "reg": "VH-OFC",
+  "lat": -18.21633,
+  "lon": 108.27122,
+  "created_at": {
+    "$date": "2026-05-10T04:59:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFC-1778387635000"
+},
+{
+  "_id": {
+    "$oid": "6a0011c09b6aac9df5da9ec4"
+  },
+  "reg": "VH-OFC",
+  "lat": -18.68348,
+  "lon": 108.43518,
+  "created_at": {
+    "$date": "2026-05-10T05:03:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFC-1778389439000"
+},
+{
+  "_id": {
+    "$oid": "6a0017609b6aac9df5da9ee7"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.57052,
+  "lon": 151.94594,
+  "created_at": {
+    "$date": "2026-05-10T05:27:26.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF3-1778388956000"
+},
+{
+  "_id": {
+    "$oid": "6a0017d89b6aac9df5da9eea"
+  },
+  "reg": "VH-OFC",
+  "lat": -21.83059,
+  "lon": 109.5484,
+  "created_at": {
+    "$date": "2026-05-10T05:29:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFC-1778389439000"
+},
+{
+  "_id": {
+    "$oid": "6a0018c89b6aac9df5da9eed"
+  },
+  "reg": "VH-OFC",
+  "lat": -22.30141,
+  "lon": 109.7205,
+  "created_at": {
+    "$date": "2026-05-10T05:33:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFC-1778391236000"
+},
+{
+  "_id": {
+    "$oid": "6a001c889b6aac9df5da9eff"
+  },
+  "reg": "VH-OFB",
+  "lat": -15.60745,
+  "lon": 166.27049,
+  "created_at": {
+    "$date": "2026-05-10T05:49:55.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFB-1778392195000"
+},
+{
+  "_id": {
+    "$oid": "6a001e689b6aac9df5da9f09"
+  },
+  "reg": "VH-OFC",
+  "lat": -25.21094,
+  "lon": 110.80621,
+  "created_at": {
+    "$date": "2026-05-10T05:57:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFC-1778391236000"
+},
+{
+  "_id": {
+    "$oid": "6a001ee09b6aac9df5da9f0c"
+  },
+  "reg": "VH-XCI",
+  "lat": -42.77367,
+  "lon": 147.50743,
+  "created_at": {
+    "$date": "2026-05-10T05:59:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-XCI-1778392799000"
+},
+{
+  "_id": {
+    "$oid": "6a001f589b6aac9df5da9f10"
+  },
+  "reg": "VH-OFC",
+  "lat": -25.69967,
+  "lon": 110.99368,
+  "created_at": {
+    "$date": "2026-05-10T06:01:51.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFC-1778392911000"
+},
+{
+  "_id": {
+    "$oid": "6a001f589b6aac9df5da9f12"
+  },
+  "reg": "VH-OFB",
+  "lat": -15.7466,
+  "lon": 164.86697,
+  "created_at": {
+    "$date": "2026-05-10T06:01:56.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFB-1778392195000"
+},
+{
+  "_id": {
+    "$oid": "6a0020489b6aac9df5da9f19"
+  },
+  "reg": "VH-OFB",
+  "lat": -15.81065,
+  "lon": 164.18216,
+  "created_at": {
+    "$date": "2026-05-10T06:05:55.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFB-1778393155000"
+},
+{
+  "_id": {
+    "$oid": "6a0021389b6aac9df5da9f1f"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.57053,
+  "lon": 151.94597,
+  "created_at": {
+    "$date": "2026-05-10T06:09:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF3-1778393398000"
+},
+{
+  "_id": {
+    "$oid": "6a0024089b6aac9df5da9f3f"
+  },
+  "reg": "VH-URR",
+  "lat": -21.17481,
+  "lon": 149.18181,
+  "created_at": {
+    "$date": "2026-05-10T06:21:03.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-URR-1778388600000"
+},
+{
+  "_id": {
+    "$oid": "6a0026609b6aac9df5da9f54"
+  },
+  "reg": "VH-OFB",
+  "lat": -16.17637,
+  "lon": 160.78496,
+  "created_at": {
+    "$date": "2026-05-10T06:31:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFB-1778393155000"
+},
+{
+  "_id": {
+    "$oid": "6a0027509b6aac9df5da9f5b"
+  },
+  "reg": "VH-OFB",
+  "lat": -16.2523,
+  "lon": 160.26353,
+  "created_at": {
+    "$date": "2026-05-10T06:35:55.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFB-1778394955000"
+},
+{
+  "_id": {
+    "$oid": "6a002a209b6aac9df5da9f71"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.38355,
+  "lon": 153.13721,
+  "created_at": {
+    "$date": "2026-05-10T06:47:51.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF3-1778393398000"
+},
+{
+  "_id": {
+    "$oid": "6a002c009b6aac9df5da9f7f"
+  },
+  "reg": "VH-URR",
+  "lat": -21.17242,
+  "lon": 149.18372,
+  "created_at": {
+    "$date": "2026-05-10T06:55:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-URR-1778396159000"
+},
+{
+  "_id": {
+    "$oid": "6a002c789b6aac9df5da9f82"
+  },
+  "reg": "VH-XCY",
+  "lat": -42.80143,
+  "lon": 147.46329,
+  "created_at": {
+    "$date": "2026-05-10T06:57:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-XCY-1778396278000"
+},
+{
+  "_id": {
+    "$oid": "6a002cf09b6aac9df5da9f87"
+  },
+  "reg": "VH-XCY",
+  "lat": -42.74277,
+  "lon": 147.44701,
+  "created_at": {
+    "$date": "2026-05-10T06:59:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-XCY-1778396278000"
+},
+{
+  "_id": {
+    "$oid": "6a002cf09b6aac9df5da9f88"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.89705,
+  "lon": 152.31789,
+  "created_at": {
+    "$date": "2026-05-10T06:59:55.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-XIL-1778396395000"
+},
+{
+  "_id": {
+    "$oid": "6a002d689b6aac9df5da9f90"
+  },
+  "reg": "VH-OFB",
+  "lat": -16.75368,
+  "lon": 156.87001,
+  "created_at": {
+    "$date": "2026-05-10T07:01:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFB-1778394955000"
+},
+{
+  "_id": {
+    "$oid": "6a002e589b6aac9df5da9f9a"
+  },
+  "reg": "VH-OFB",
+  "lat": -16.86876,
+  "lon": 156.35455,
+  "created_at": {
+    "$date": "2026-05-10T07:05:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFB-1778396757000"
+},
+{
+  "_id": {
+    "$oid": "6a002ed09b6aac9df5da9f9b"
+  },
+  "reg": "VH-XCI",
+  "lat": -41.04648,
+  "lon": 145.87921,
+  "created_at": {
+    "$date": "2026-05-10T07:07:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-XCI-1778392799000"
+},
+{
+  "_id": {
+    "$oid": "6a0031a09b6aac9df5da9fb4"
+  },
+  "reg": "VH-XIL",
+  "lat": -25.35663,
+  "lon": 151.74602,
+  "created_at": {
+    "$date": "2026-05-10T07:19:34.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-XIL-1778396395000"
+},
+{
+  "_id": {
+    "$oid": "6a0032189b6aac9df5da9fb8"
+  },
+  "reg": "VH-OFC",
+  "lat": -31.92233,
+  "lon": 115.96506,
+  "created_at": {
+    "$date": "2026-05-10T07:21:55.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFC-1778392911000"
+},
+{
+  "_id": {
+    "$oid": "6a0034709b6aac9df5da9fc7"
+  },
+  "reg": "VH-OFB",
+  "lat": -17.57043,
+  "lon": 153.04927,
+  "created_at": {
+    "$date": "2026-05-10T07:31:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFB-1778396757000"
+},
+{
+  "_id": {
+    "$oid": "6a0035609b6aac9df5da9fcb"
+  },
+  "reg": "VH-OFB",
+  "lat": -17.67207,
+  "lon": 152.54012,
+  "created_at": {
+    "$date": "2026-05-10T07:35:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFB-1778398559000"
+},
+{
+  "_id": {
+    "$oid": "6a0036c89b6aac9df5da9fd0"
+  },
+  "reg": "VH-XCY",
+  "lat": -42.62352,
+  "lon": 147.42709,
+  "created_at": {
+    "$date": "2026-05-10T07:41:46.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-XCY-1778398906000"
+},
+{
+  "_id": {
+    "$oid": "6a0037409b6aac9df5da9fd3"
+  },
+  "reg": "VH-XCY",
+  "lat": -42.63384,
+  "lon": 147.42451,
+  "created_at": {
+    "$date": "2026-05-10T07:43:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-XCY-1778398906000"
+},
+{
+  "_id": {
+    "$oid": "6a0037409b6aac9df5da9fd5"
+  },
+  "reg": "VH-OFB",
+  "lat": -17.87143,
+  "lon": 151.53015,
+  "created_at": {
+    "$date": "2026-05-10T07:43:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFB-1778398559000"
+},
+{
+  "_id": {
+    "$oid": "6a003a109b6aac9df5da9fdc"
+  },
+  "reg": "VH-OFB",
+  "lat": -18.17445,
+  "lon": 149.99745,
+  "created_at": {
+    "$date": "2026-05-10T07:55:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-OFB-1778399758000"
+},
+{
+  "_id": {
+    "$oid": "6a003b009b6aac9df5da9fdf"
+  },
+  "reg": "VH-XCI",
+  "lat": -41.06103,
+  "lon": 145.89488,
+  "created_at": {
+    "$date": "2026-05-10T07:59:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-XCI-1778399999000"
+},
+{
+  "_id": {
+    "$oid": "6a003bf09b6aac9df5da9fe6"
+  },
+  "reg": "VH-URR",
+  "lat": -16.87135,
+  "lon": 145.75644,
+  "created_at": {
+    "$date": "2026-05-10T08:03:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-URR-1778396159000"
+},
+{
+  "_id": {
+    "$oid": "6a0040a09b6aac9df5da9ffc"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.38359,
+  "lon": 153.13724,
+  "created_at": {
+    "$date": "2026-05-10T08:23:54.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-LF3-1778401434000"
+},
+{
+  "_id": {
+    "$oid": "6a0040a09b6aac9df5da9ffd"
+  },
+  "reg": "VH-XIL",
+  "lat": -25.16684,
+  "lon": 151.98674,
+  "created_at": {
+    "$date": "2026-05-10T08:23:52.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-XIL-1778401432000"
+},
+{
+  "_id": {
+    "$oid": "6a0042f89b6aac9df5daa013"
+  },
+  "reg": "VH-URR",
+  "lat": -16.87295,
+  "lon": 145.74898,
+  "created_at": {
+    "$date": "2026-05-10T08:33:55.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-URR-1778402035000"
+},
+{
+  "_id": {
+    "$oid": "6a0043e89b6aac9df5daa01b"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.89702,
+  "lon": 152.31783,
+  "created_at": {
+    "$date": "2026-05-10T08:37:42.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-XIL-1778401432000"
+},
+{
+  "_id": {
+    "$oid": "6a0043e89b6aac9df5daa01c"
+  },
+  "reg": "VH-OFB",
+  "lat": -19.25422,
+  "lon": 146.77058,
+  "created_at": {
+    "$date": "2026-05-10T08:37:04.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-OFB-1778399758000"
+},
+{
+  "_id": {
+    "$oid": "6a004a789b6aac9df5daa045"
+  },
+  "reg": "VH-XCI",
+  "lat": -42.87973,
+  "lon": 147.33049,
+  "created_at": {
+    "$date": "2026-05-10T09:05:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-XCI-1778399999000"
+},
+{
+  "_id": {
+    "$oid": "6a004af09b6aac9df5daa048"
+  },
+  "reg": "VH-LF3",
+  "lat": -28.14958,
+  "lon": 151.94366,
+  "created_at": {
+    "$date": "2026-05-10T09:07:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-LF3-1778401434000"
+},
+{
+  "_id": {
+    "$oid": "6a0051809b6aac9df5daa057"
+  },
+  "reg": "VH-XCI",
+  "lat": -42.87643,
+  "lon": 147.34486,
+  "created_at": {
+    "$date": "2026-05-10T09:35:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "__v": 0,
+  "reference": "VH-XCI-1778405759000"
+},
+{
+  "_id": {
+    "$oid": "6a0051f89b6aac9df5daa059"
+  },
+  "reg": "VH-XCI",
+  "lat": -42.83481,
+  "lon": 147.39964,
+  "created_at": {
+    "$date": "2026-05-10T09:37:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-XCI-1778405759000"
+},
+{
+  "_id": {
+    "$oid": "6a0055b89b6aac9df5daa062"
+  },
+  "reg": "VH-URR",
+  "lat": -25.79489,
+  "lon": 151.54251,
+  "created_at": {
+    "$date": "2026-05-10T09:53:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0,
+  "reference": "VH-URR-1778402035000"
+},
+{
+  "_id": {
+    "$oid": "6a0056309b6aac9df5daa063"
+  },
+  "reg": "VH-URR",
+  "lat": -26.02309,
+  "lon": 151.76881,
+  "created_at": {
+    "$date": "2026-05-10T09:55:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0056a89b6aac9df5daa064"
+  },
+  "reg": "VH-URR",
+  "lat": -26.23952,
+  "lon": 151.98569,
+  "created_at": {
+    "$date": "2026-05-10T09:57:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0057209b6aac9df5daa065"
+  },
+  "reg": "VH-URR",
+  "lat": -26.45119,
+  "lon": 152.19905,
+  "created_at": {
+    "$date": "2026-05-10T09:59:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005752876e028186087cf3"
+  },
+  "reg": "VH-URR",
+  "lat": -26.53198,
+  "lon": 152.28076,
+  "created_at": {
+    "$date": "2026-05-10T10:00:48.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005798876e028186087cf4"
+  },
+  "reg": "VH-URR",
+  "lat": -26.63503,
+  "lon": 152.38487,
+  "created_at": {
+    "$date": "2026-05-10T10:01:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0057d2959f82c2491e9fa6"
+  },
+  "reg": "VH-URR",
+  "lat": -26.71834,
+  "lon": 152.47064,
+  "created_at": {
+    "$date": "2026-05-10T10:02:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005810959f82c2491e9fa7"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.5452,
+  "lon": 151.91081,
+  "created_at": {
+    "$date": "2026-05-10T10:04:00.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778407440000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005810959f82c2491e9fa8"
+  },
+  "reg": "VH-URR",
+  "lat": -26.80165,
+  "lon": 152.55672,
+  "created_at": {
+    "$date": "2026-05-10T10:03:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005888959f82c2491e9faa"
+  },
+  "reg": "VH-URR",
+  "lat": -26.9489,
+  "lon": 152.70923,
+  "created_at": {
+    "$date": "2026-05-10T10:05:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005900959f82c2491e9fac"
+  },
+  "reg": "VH-URR",
+  "lat": -27.03377,
+  "lon": 152.86166,
+  "created_at": {
+    "$date": "2026-05-10T10:07:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005978959f82c2491e9fae"
+  },
+  "reg": "VH-URR",
+  "lat": -27.06908,
+  "lon": 153.01805,
+  "created_at": {
+    "$date": "2026-05-10T10:09:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0059f0959f82c2491e9fb0"
+  },
+  "reg": "VH-URR",
+  "lat": -27.11454,
+  "lon": 153.16113,
+  "created_at": {
+    "$date": "2026-05-10T10:11:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005a68959f82c2491e9fb2"
+  },
+  "reg": "VH-URR",
+  "lat": -27.17505,
+  "lon": 153.24643,
+  "created_at": {
+    "$date": "2026-05-10T10:13:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005ae0959f82c2491e9fb4"
+  },
+  "reg": "VH-URR",
+  "lat": -27.27205,
+  "lon": 153.19325,
+  "created_at": {
+    "$date": "2026-05-10T10:15:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005b58959f82c2491e9fb5"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.55874,
+  "lon": 152.28154,
+  "created_at": {
+    "$date": "2026-05-10T10:17:55.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778407440000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005b58959f82c2491e9fb6"
+  },
+  "reg": "VH-URR",
+  "lat": -27.34026,
+  "lon": 153.15402,
+  "created_at": {
+    "$date": "2026-05-10T10:17:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005bd0959f82c2491e9fb7"
+  },
+  "reg": "VH-URR",
+  "lat": -27.38829,
+  "lon": 153.12668,
+  "created_at": {
+    "$date": "2026-05-10T10:20:00.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005c48959f82c2491e9fb8"
+  },
+  "reg": "VH-URR",
+  "lat": -27.38441,
+  "lon": 153.13126,
+  "created_at": {
+    "$date": "2026-05-10T10:21:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005cc0959f82c2491e9fb9"
+  },
+  "reg": "VH-URR",
+  "lat": -27.38359,
+  "lon": 153.13728,
+  "created_at": {
+    "$date": "2026-05-10T10:23:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a005d38959f82c2491e9fba"
+  },
+  "reg": "VH-URR",
+  "lat": -27.3836,
+  "lon": 153.1373,
+  "created_at": {
+    "$date": "2026-05-10T10:25:00.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0060f8959f82c2491e9fbb"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.5986,
+  "lon": 153.08218,
+  "created_at": {
+    "$date": "2026-05-10T10:41:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778409717000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0062d8959f82c2491e9fbf"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.42198,
+  "lon": 153.06328,
+  "created_at": {
+    "$date": "2026-05-10T10:49:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778409717000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a006698959f82c2491e9fc0"
+  },
+  "reg": "VH-LF3",
+  "lat": -28.14847,
+  "lon": 151.94444,
+  "created_at": {
+    "$date": "2026-05-10T11:05:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778411156000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a006a58959f82c2491e9fc9"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.47325,
+  "lon": 153.07376,
+  "created_at": {
+    "$date": "2026-05-10T11:21:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778412119000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a006d28959f82c2491e9fd5"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.74722,
+  "lon": 153.11366,
+  "created_at": {
+    "$date": "2026-05-10T11:33:05.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778412119000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a006f80959f82c2491e9fda"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.44695,
+  "lon": 153.02832,
+  "created_at": {
+    "$date": "2026-05-10T11:43:53.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778411156000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0073b8959f82c2491e9fdb"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.57042,
+  "lon": 152.28253,
+  "created_at": {
+    "$date": "2026-05-10T12:01:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778414519000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a007958959f82c2491e9fe7"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.42513,
+  "lon": 153.04103,
+  "created_at": {
+    "$date": "2026-05-10T12:25:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778415959000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a007ac0959f82c2491e9fed"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.38361,
+  "lon": 153.1364,
+  "created_at": {
+    "$date": "2026-05-10T12:31:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778415959000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a007ac0959f82c2491e9fee"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.44694,
+  "lon": 153.02823,
+  "created_at": {
+    "$date": "2026-05-10T12:31:52.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778414519000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a007ac0959f82c2491e9fef"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.74938,
+  "lon": 153.10463,
+  "created_at": {
+    "$date": "2026-05-10T12:31:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778416318000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a007ca0959f82c2491e9ff3"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59859,
+  "lon": 153.0822,
+  "created_at": {
+    "$date": "2026-05-10T12:39:53.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778416318000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a008510959f82c2491e9ff4"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.44408,
+  "lon": 153.01462,
+  "created_at": {
+    "$date": "2026-05-10T13:15:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778418959000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a008ba0959f82c2491ea002"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.5452,
+  "lon": 151.91066,
+  "created_at": {
+    "$date": "2026-05-10T13:43:34.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778418959000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a00b030959f82c2491ea003"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59859,
+  "lon": 153.0822,
+  "created_at": {
+    "$date": "2026-05-10T16:19:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778429999000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a00b3f0959f82c2491ea00b"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.19639,
+  "lon": 152.6489,
+  "created_at": {
+    "$date": "2026-05-10T16:35:47.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778429999000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a00bb70959f82c2491ea00c"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.23773,
+  "lon": 152.69417,
+  "created_at": {
+    "$date": "2026-05-10T17:08:00.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778432880000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a00c110959f82c2491ea018"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.74727,
+  "lon": 153.11368,
+  "created_at": {
+    "$date": "2026-05-10T17:31:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778432880000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a00c9f8959f82c2491ea019"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.71428,
+  "lon": 153.08772,
+  "created_at": {
+    "$date": "2026-05-10T18:09:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778436599000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a00cb60959f82c2491ea01c"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59856,
+  "lon": 153.08218,
+  "created_at": {
+    "$date": "2026-05-10T18:15:46.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778436599000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a00f3b0959f82c2491ea01d"
+  },
+  "reg": "VH-XIW",
+  "lat": -26.54076,
+  "lon": 148.77802,
+  "created_at": {
+    "$date": "2026-05-10T21:08:01.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIW-1778447281000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a010508959f82c2491ea042"
+  },
+  "reg": "VH-VSZ",
+  "lat": -27.57156,
+  "lon": 153.00459,
+  "created_at": {
+    "$date": "2026-05-10T22:22:01.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-VSZ-1778451721000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0109b8959f82c2491ea056"
+  },
+  "reg": "VH-VSZ",
+  "lat": -27.38361,
+  "lon": 153.13733,
+  "created_at": {
+    "$date": "2026-05-10T22:41:55.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-VSZ-1778451721000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0111b0959f82c2491ea068"
+  },
+  "reg": "VH-XIW",
+  "lat": -26.74727,
+  "lon": 153.11371,
+  "created_at": {
+    "$date": "2026-05-10T23:15:52.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIW-1778447281000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a011e58959f82c2491ea069"
+  },
+  "reg": "VH-VSZ",
+  "lat": -27.38411,
+  "lon": 153.13568,
+  "created_at": {
+    "$date": "2026-05-11T00:09:46.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-VSZ-1778458186000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a012470959f82c2491ea077"
+  },
+  "reg": "VH-XIW",
+  "lat": -26.75692,
+  "lon": 153.11768,
+  "created_at": {
+    "$date": "2026-05-11T00:36:02.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIW-1778459762000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0126c8959f82c2491ea081"
+  },
+  "reg": "VH-XIW",
+  "lat": -26.59841,
+  "lon": 153.08307,
+  "created_at": {
+    "$date": "2026-05-11T00:45:32.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIW-1778459762000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0127b8959f82c2491ea083"
+  },
+  "reg": "VH-OFC",
+  "lat": -31.92634,
+  "lon": 115.96468,
+  "created_at": {
+    "$date": "2026-05-11T00:50:02.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-OFC-1778460602000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a012920959f82c2491ea089"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59845,
+  "lon": 153.06981,
+  "created_at": {
+    "$date": "2026-05-11T00:56:00.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778460960000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a012920959f82c2491ea08b"
+  },
+  "reg": "VH-VSZ",
+  "lat": -29.83342,
+  "lon": 158.22903,
+  "created_at": {
+    "$date": "2026-05-11T00:55:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-VSZ-1778458186000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a012a88959f82c2491ea090"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59855,
+  "lon": 153.08286,
+  "created_at": {
+    "$date": "2026-05-11T01:01:44.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778460960000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a013028959f82c2491ea09e"
+  },
+  "reg": "VH-VSZ",
+  "lat": -31.90586,
+  "lon": 162.37296,
+  "created_at": {
+    "$date": "2026-05-11T01:25:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-VSZ-1778462758000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0132f8959f82c2491ea0aa"
+  },
+  "reg": "VH-VSZ",
+  "lat": -32.68518,
+  "lon": 164.05438,
+  "created_at": {
+    "$date": "2026-05-11T01:37:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-VSZ-1778462758000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0133e8959f82c2491ea0ad"
+  },
+  "reg": "VH-VSZ",
+  "lat": -32.93713,
+  "lon": 164.61636,
+  "created_at": {
+    "$date": "2026-05-11T01:41:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-VSZ-1778463719000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0136b8959f82c2491ea0ba"
+  },
+  "reg": "VH-XIW",
+  "lat": -26.61017,
+  "lon": 153.08614,
+  "created_at": {
+    "$date": "2026-05-11T01:54:02.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIW-1778464442000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a013820959f82c2491ea0be"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.38359,
+  "lon": 153.13727,
+  "created_at": {
+    "$date": "2026-05-11T01:59:53.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778464793000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a013910959f82c2491ea0c5"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.54391,
+  "lon": 151.91096,
+  "created_at": {
+    "$date": "2026-05-11T02:03:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778465036000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a013a00959f82c2491ea0d2"
+  },
+  "reg": "VH-VSZ",
+  "lat": -34.49855,
+  "lon": 168.31172,
+  "created_at": {
+    "$date": "2026-05-11T02:07:56.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-VSZ-1778463719000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a013a78959f82c2491ea0d6"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.60815,
+  "lon": 153.08598,
+  "created_at": {
+    "$date": "2026-05-11T02:09:54.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778465394000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a013af0959f82c2491ea0da"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.48128,
+  "lon": 153.0255,
+  "created_at": {
+    "$date": "2026-05-11T02:11:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778464793000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a013af0959f82c2491ea0dd"
+  },
+  "reg": "VH-VSZ",
+  "lat": -34.70636,
+  "lon": 168.83528,
+  "created_at": {
+    "$date": "2026-05-11T02:11:53.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-VSZ-1778465513000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a013be0959f82c2491ea0e6"
+  },
+  "reg": "VH-OFC",
+  "lat": -24.60068,
+  "lon": 112.18491,
+  "created_at": {
+    "$date": "2026-05-11T02:15:52.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-OFC-1778460602000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a013e38959f82c2491ea0fb"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.41965,
+  "lon": 152.41774,
+  "created_at": {
+    "$date": "2026-05-11T02:25:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778465394000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a013e38959f82c2491ea0fc"
+  },
+  "reg": "VH-OFC",
+  "lat": -23.44403,
+  "lon": 111.72974,
+  "created_at": {
+    "$date": "2026-05-11T02:25:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-OFC-1778466357000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a013f28959f82c2491ea104"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.36984,
+  "lon": 152.23781,
+  "created_at": {
+    "$date": "2026-05-11T02:29:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778466596000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a013f28959f82c2491ea107"
+  },
+  "reg": "VH-XIW",
+  "lat": -27.57018,
+  "lon": 152.99841,
+  "created_at": {
+    "$date": "2026-05-11T02:29:42.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIW-1778464442000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a013fa0959f82c2491ea10a"
+  },
+  "reg": "VH-OFC",
+  "lat": -22.75809,
+  "lon": 111.46387,
+  "created_at": {
+    "$date": "2026-05-11T02:31:50.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-OFC-1778466357000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a014090959f82c2491ea110"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.47328,
+  "lon": 152.99359,
+  "created_at": {
+    "$date": "2026-05-11T02:35:55.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778466955000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a014090959f82c2491ea111"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.30807,
+  "lon": 152.01581,
+  "created_at": {
+    "$date": "2026-05-11T02:35:34.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778466596000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0143d8959f82c2491ea127"
+  },
+  "reg": "VH-OFC",
+  "lat": -20.67638,
+  "lon": 110.67188,
+  "created_at": {
+    "$date": "2026-05-11T02:49:53.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-OFC-1778467793000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a014540959f82c2491ea131"
+  },
+  "reg": "VH-LF2",
+  "lat": -26.23079,
+  "lon": 150.10551,
+  "created_at": {
+    "$date": "2026-05-11T02:55:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778465036000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0146a8959f82c2491ea13c"
+  },
+  "reg": "VH-OFC",
+  "lat": -19.29358,
+  "lon": 110.16122,
+  "created_at": {
+    "$date": "2026-05-11T03:01:54.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-OFC-1778467793000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a014798959f82c2491ea141"
+  },
+  "reg": "VH-OFC",
+  "lat": -18.78684,
+  "lon": 109.97275,
+  "created_at": {
+    "$date": "2026-05-11T03:05:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-OFC-1778468757000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a014900959f82c2491ea14b"
+  },
+  "reg": "VH-VSZ",
+  "lat": -37.00262,
+  "lon": 174.80374,
+  "created_at": {
+    "$date": "2026-05-11T03:11:55.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-VSZ-1778465513000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a014ae0959f82c2491ea154"
+  },
+  "reg": "VH-URR",
+  "lat": -27.38465,
+  "lon": 153.13327,
+  "created_at": {
+    "$date": "2026-05-11T03:19:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-URR-1778469596000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a014db0959f82c2491ea165"
+  },
+  "reg": "VH-OFC",
+  "lat": -15.65084,
+  "lon": 108.85355,
+  "created_at": {
+    "$date": "2026-05-11T03:31:54.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-OFC-1778468757000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a014ea0959f82c2491ea16a"
+  },
+  "reg": "VH-OFC",
+  "lat": -15.15176,
+  "lon": 108.67838,
+  "created_at": {
+    "$date": "2026-05-11T03:35:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-OFC-1778470559000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a014f90959f82c2491ea16f"
+  },
+  "reg": "VH-LF2",
+  "lat": -26.34205,
+  "lon": 150.41139,
+  "created_at": {
+    "$date": "2026-05-11T03:39:43.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778470783000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a015080959f82c2491ea178"
+  },
+  "reg": "VH-LF3",
+  "lat": -24.89619,
+  "lon": 152.31938,
+  "created_at": {
+    "$date": "2026-05-11T03:43:38.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778466955000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0150f8959f82c2491ea17d"
+  },
+  "reg": "VH-VSZ",
+  "lat": -37.00251,
+  "lon": 174.80394,
+  "created_at": {
+    "$date": "2026-05-11T03:45:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-VSZ-1778471158000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0152d8959f82c2491ea18e"
+  },
+  "reg": "VH-URR",
+  "lat": -25.56688,
+  "lon": 156.32507,
+  "created_at": {
+    "$date": "2026-05-11T03:53:56.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-URR-1778469596000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a015440959f82c2491ea196"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.33781,
+  "lon": 152.06937,
+  "created_at": {
+    "$date": "2026-05-11T03:59:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778471996000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0154b8959f82c2491ea19b"
+  },
+  "reg": "VH-OFC",
+  "lat": -12.13486,
+  "lon": 107.63757,
+  "created_at": {
+    "$date": "2026-05-11T04:01:55.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-OFC-1778470559000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0155a8959f82c2491ea1a2"
+  },
+  "reg": "VH-OFC",
+  "lat": -11.62002,
+  "lon": 107.46212,
+  "created_at": {
+    "$date": "2026-05-11T04:05:54.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-OFC-1778472354000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0155a8959f82c2491ea1a4"
+  },
+  "reg": "VH-URR",
+  "lat": -24.56879,
+  "lon": 157.99805,
+  "created_at": {
+    "$date": "2026-05-11T04:05:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-URR-1778472356000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a015878959f82c2491ea1c0"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.89716,
+  "lon": 152.2959,
+  "created_at": {
+    "$date": "2026-05-11T04:17:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIL-1778473076000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a015bc0959f82c2491ea1ea"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.74489,
+  "lon": 153.11401,
+  "created_at": {
+    "$date": "2026-05-11T04:31:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778471996000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a015d28959f82c2491ea1f9"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.19492,
+  "lon": 151.88756,
+  "created_at": {
+    "$date": "2026-05-11T04:37:46.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIL-1778473076000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a015f80959f82c2491ea20f"
+  },
+  "reg": "VH-VSZ",
+  "lat": -41.29871,
+  "lon": 173.22688,
+  "created_at": {
+    "$date": "2026-05-11T04:47:55.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-VSZ-1778471158000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a016250959f82c2491ea221"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.5697,
+  "lon": 152.99892,
+  "created_at": {
+    "$date": "2026-05-11T04:59:49.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778470783000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0163b8959f82c2491ea229"
+  },
+  "reg": "VH-OFB",
+  "lat": -19.25808,
+  "lon": 146.76483,
+  "created_at": {
+    "$date": "2026-05-11T05:05:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-OFB-1778475958000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a016598959f82c2491ea234"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.21867,
+  "lon": 151.90186,
+  "created_at": {
+    "$date": "2026-05-11T05:13:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIL-1778476436000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a016778959f82c2491ea244"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.7457,
+  "lon": 153.10283,
+  "created_at": {
+    "$date": "2026-05-11T05:21:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778476917000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0169d0959f82c2491ea261"
+  },
+  "reg": "VH-URR",
+  "lat": -17.69211,
+  "lon": 168.30548,
+  "created_at": {
+    "$date": "2026-05-11T05:31:34.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-URR-1778472356000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a016b38959f82c2491ea26a"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59867,
+  "lon": 153.08238,
+  "created_at": {
+    "$date": "2026-05-11T05:37:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778476917000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a016c28959f82c2491ea271"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.8959,
+  "lon": 152.31905,
+  "created_at": {
+    "$date": "2026-05-11T05:41:52.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIL-1778476436000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a016d90959f82c2491ea278"
+  },
+  "reg": "VH-LF3",
+  "lat": -24.89619,
+  "lon": 152.31938,
+  "created_at": {
+    "$date": "2026-05-11T05:47:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778478477000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a017060959f82c2491ea28b"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59908,
+  "lon": 153.08276,
+  "created_at": {
+    "$date": "2026-05-11T05:59:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778479198000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0171c8959f82c2491ea298"
+  },
+  "reg": "VH-OFC",
+  "lat": 1.41095,
+  "lon": 103.86612,
+  "created_at": {
+    "$date": "2026-05-11T06:05:42.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-OFC-1778472354000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a017498959f82c2491ea2ab"
+  },
+  "reg": "VH-OFB",
+  "lat": -16.96452,
+  "lon": 139.66168,
+  "created_at": {
+    "$date": "2026-05-11T06:17:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-OFB-1778475958000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a017600959f82c2491ea2b0"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.56961,
+  "lon": 152.99876,
+  "created_at": {
+    "$date": "2026-05-11T06:23:55.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778480635000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a017948959f82c2491ea2c7"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59862,
+  "lon": 153.0822,
+  "created_at": {
+    "$date": "2026-05-11T06:37:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778479198000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a017b28959f82c2491ea2d0"
+  },
+  "reg": "VH-OFB",
+  "lat": -15.49812,
+  "lon": 136.89069,
+  "created_at": {
+    "$date": "2026-05-11T06:45:46.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-OFB-1778481946000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a017d80959f82c2491ea2dd"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.54522,
+  "lon": 151.91066,
+  "created_at": {
+    "$date": "2026-05-11T06:55:03.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778480635000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a017df8959f82c2491ea2e0"
+  },
+  "reg": "VH-LF3",
+  "lat": -26.74724,
+  "lon": 153.11371,
+  "created_at": {
+    "$date": "2026-05-11T06:57:56.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778478477000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a017df8959f82c2491ea2e1"
+  },
+  "reg": "VH-OFB",
+  "lat": -14.95965,
+  "lon": 135.6274,
+  "created_at": {
+    "$date": "2026-05-11T06:57:55.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-OFB-1778481946000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a017ee8959f82c2491ea2e2"
+  },
+  "reg": "VH-OFB",
+  "lat": -14.77116,
+  "lon": 135.19032,
+  "created_at": {
+    "$date": "2026-05-11T07:01:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-OFB-1778482919000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a017f60959f82c2491ea2e3"
+  },
+  "reg": "VH-OFB",
+  "lat": -14.68569,
+  "lon": 134.99306,
+  "created_at": {
+    "$date": "2026-05-11T07:03:50.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-OFB-1778482919000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0180c8959f82c2491ea2e4"
+  },
+  "reg": "VH-OFB",
+  "lat": -14.40075,
+  "lon": 134.33932,
+  "created_at": {
+    "$date": "2026-05-11T07:09:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-OFB-1778483398000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a018320959f82c2491ea2e9"
+  },
+  "reg": "VH-OFB",
+  "lat": -12.41064,
+  "lon": 130.88342,
+  "created_at": {
+    "$date": "2026-05-11T07:51:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-OFB-1778483398000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a018938682fd10e6a83c8c8"
+  },
+  "reg": "VH-LF3",
+  "lat": -26.75661,
+  "lon": 153.112,
+  "created_at": {
+    "$date": "2026-05-11T07:45:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778485559000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0189b0682fd10e6a83c8c9"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.48398,
+  "lon": 153.0269,
+  "created_at": {
+    "$date": "2026-05-11T08:13:28.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778485559000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a018de8682fd10e6a83c8ca"
+  },
+  "reg": "VH-URR",
+  "lat": -17.69241,
+  "lon": 168.3071,
+  "created_at": {
+    "$date": "2026-05-11T08:05:38.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-URR-1778486738000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a018e60682fd10e6a83c8cb"
+  },
+  "reg": "VH-URR",
+  "lat": -24.0434,
+  "lon": 158.85703,
+  "created_at": {
+    "$date": "2026-05-11T09:45:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-URR-1778486738000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a019658682fd10e6a83c8cc"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.51931,
+  "lon": 153.06474,
+  "created_at": {
+    "$date": "2026-05-11T08:41:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778488917000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0196d0682fd10e6a83c8cd"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.38362,
+  "lon": 153.13721,
+  "created_at": {
+    "$date": "2026-05-11T08:55:35.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778488917000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a019928682fd10e6a83c8ce"
+  },
+  "reg": "VH-OFB",
+  "lat": -12.40986,
+  "lon": 130.87843,
+  "created_at": {
+    "$date": "2026-05-11T08:54:00.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-OFB-1778489640000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0199a0682fd10e6a83c8cf"
+  },
+  "reg": "VH-OFB",
+  "lat": -34.9394,
+  "lon": 138.53201,
+  "created_at": {
+    "$date": "2026-05-11T12:15:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-OFB-1778489640000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01a648682fd10e6a83c8d0"
+  },
+  "reg": "VH-URR",
+  "lat": -24.29968,
+  "lon": 158.43996,
+  "created_at": {
+    "$date": "2026-05-11T09:50:00.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-URR-1778493000000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01a6c0682fd10e6a83c8d1"
+  },
+  "reg": "VH-URR",
+  "lat": -25.05535,
+  "lon": 157.18904,
+  "created_at": {
+    "$date": "2026-05-11T10:01:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-URR-1778493000000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01ab70682fd10e6a83c8d2"
+  },
+  "reg": "VH-URR",
+  "lat": -25.70517,
+  "lon": 156.08678,
+  "created_at": {
+    "$date": "2026-05-11T10:11:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-URR-1778494317000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01abe8682fd10e6a83c8d3"
+  },
+  "reg": "VH-URR",
+  "lat": -27.38403,
+  "lon": 153.13612,
+  "created_at": {
+    "$date": "2026-05-11T10:47:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-URR-1778494317000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01d438fde285e505c5b2d7"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.54454,
+  "lon": 151.91129,
+  "created_at": {
+    "$date": "2026-05-11T13:05:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778504758000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01d4a3d748ae8e65efe650"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.85183,
+  "lon": 151.91689,
+  "created_at": {
+    "$date": "2026-05-11T13:16:07.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778504758000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01d6e0ca18509e99ede086"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.89214,
+  "lon": 151.91745,
+  "created_at": {
+    "$date": "2026-05-11T13:17:20.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778505440000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01d708ca18509e99ede087"
+  },
+  "reg": "VH-LF2",
+  "lat": -28.61906,
+  "lon": 151.92259,
+  "created_at": {
+    "$date": "2026-05-11T13:45:54.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778505440000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01dc30f05f804218304b4b"
+  },
+  "reg": "VH-XIW",
+  "lat": -27.57006,
+  "lon": 152.99846,
+  "created_at": {
+    "$date": "2026-05-11T13:39:54.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIW-1778506794000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01dca8f05f804218304b4c"
+  },
+  "reg": "VH-XIW",
+  "lat": -26.54078,
+  "lon": 148.77805,
+  "created_at": {
+    "$date": "2026-05-11T15:22:00.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIW-1778506794000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01eab8f05f804218304b4d"
+  },
+  "reg": "VH-LF2",
+  "lat": -28.62683,
+  "lon": 151.83466,
+  "created_at": {
+    "$date": "2026-05-11T14:41:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778510518000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01eb30f05f804218304b4e"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.57182,
+  "lon": 151.94435,
+  "created_at": {
+    "$date": "2026-05-11T15:10:00.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778510518000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01f8c8f05f804218304b4f"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.57051,
+  "lon": 151.94595,
+  "created_at": {
+    "$date": "2026-05-11T15:42:01.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778514121000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a01f9b8f05f804218304b50"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.54519,
+  "lon": 151.91066,
+  "created_at": {
+    "$date": "2026-05-11T15:49:52.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778514121000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0251d8a7bc26c41f3ab29e"
+  },
+  "reg": "VH-XIH",
+  "lat": -27.56961,
+  "lon": 152.99876,
+  "created_at": {
+    "$date": "2026-05-11T22:01:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIH-1778536919000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a025250a7bc26c41f3ab29f"
+  },
+  "reg": "VH-XIH",
+  "lat": -27.516,
+  "lon": 153.28764,
+  "created_at": {
+    "$date": "2026-05-11T22:23:52.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIH-1778536919000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a026510a7bc26c41f3ab2a0"
+  },
+  "reg": "VH-XIH",
+  "lat": -27.5159,
+  "lon": 153.28783,
+  "created_at": {
+    "$date": "2026-05-11T23:23:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIH-1778541837000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a026588a7bc26c41f3ab2a1"
+  },
+  "reg": "VH-XIH",
+  "lat": -27.51447,
+  "lon": 153.28664,
+  "created_at": {
+    "$date": "2026-05-12T00:18:00.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIH-1778541837000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a026768a7bc26c41f3ab2a2"
+  },
+  "reg": "VH-LF4",
+  "lat": -20.67224,
+  "lon": 139.49184,
+  "created_at": {
+    "$date": "2026-05-11T23:34:01.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF4-1778542441000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0267e0a7bc26c41f3ab2a3"
+  },
+  "reg": "VH-LF4",
+  "lat": -19.06421,
+  "lon": 140.35838,
+  "created_at": {
+    "$date": "2026-05-12T00:24:02.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF4-1778542441000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a026d80a7bc26c41f3ab2a4"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.89722,
+  "lon": 152.31757,
+  "created_at": {
+    "$date": "2026-05-12T00:00:00.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIL-1778544000000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a026df8a7bc26c41f3ab2a5"
+  },
+  "reg": "VH-XIL",
+  "lat": -27.44693,
+  "lon": 153.02824,
+  "created_at": {
+    "$date": "2026-05-12T01:27:54.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIL-1778544000000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a027488a7bc26c41f3ab2a6"
+  },
+  "reg": "VH-XIH",
+  "lat": -27.51726,
+  "lon": 153.28912,
+  "created_at": {
+    "$date": "2026-05-12T00:30:00.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIH-1778545800000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a027500a7bc26c41f3ab2a7"
+  },
+  "reg": "VH-XIH",
+  "lat": -27.51485,
+  "lon": 153.2869,
+  "created_at": {
+    "$date": "2026-05-12T01:15:56.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIH-1778545800000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a028130a7bc26c41f3ab2a8"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.38357,
+  "lon": 153.13727,
+  "created_at": {
+    "$date": "2026-05-12T01:23:48.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778549028000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0281a8a7bc26c41f3ab2a9"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.48398,
+  "lon": 153.02693,
+  "created_at": {
+    "$date": "2026-05-12T01:35:54.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778549028000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0284f0a7bc26c41f3ab2aa"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.53905,
+  "lon": 151.92719,
+  "created_at": {
+    "$date": "2026-05-12T01:39:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778549996000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a028568a7bc26c41f3ab2ab"
+  },
+  "reg": "VH-LF2",
+  "lat": -26.52635,
+  "lon": 151.83458,
+  "created_at": {
+    "$date": "2026-05-12T02:05:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778549996000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a028658a7bc26c41f3ab2ac"
+  },
+  "reg": "VH-XIH",
+  "lat": -27.51959,
+  "lon": 153.29239,
+  "created_at": {
+    "$date": "2026-05-12T01:45:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIH-1778550356000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0286d0a7bc26c41f3ab2ad"
+  },
+  "reg": "VH-XIH",
+  "lat": -27.51347,
+  "lon": 153.2867,
+  "created_at": {
+    "$date": "2026-05-12T02:33:55.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIH-1778550356000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0288b0a7bc26c41f3ab2ae"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.49273,
+  "lon": 153.01996,
+  "created_at": {
+    "$date": "2026-05-12T01:55:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778550957000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a028928a7bc26c41f3ab2af"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.15683,
+  "lon": 151.26479,
+  "created_at": {
+    "$date": "2026-05-12T02:33:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778550957000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0296c0a7bc26c41f3ab2b0"
+  },
+  "reg": "VH-LF4",
+  "lat": -19.46223,
+  "lon": 140.08946,
+  "created_at": {
+    "$date": "2026-05-12T02:55:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF4-1778554558000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a029738a7bc26c41f3ab2b1"
+  },
+  "reg": "VH-LF4",
+  "lat": -20.67224,
+  "lon": 139.49245,
+  "created_at": {
+    "$date": "2026-05-12T03:35:18.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF4-1778554558000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0298a0a7bc26c41f3ab2b2"
+  },
+  "reg": "VH-XIL",
+  "lat": -27.44101,
+  "lon": 153.02489,
+  "created_at": {
+    "$date": "2026-05-12T03:03:55.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIL-1778555035000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a029918a7bc26c41f3ab2b3"
+  },
+  "reg": "VH-XIL",
+  "lat": -26.59856,
+  "lon": 153.0822,
+  "created_at": {
+    "$date": "2026-05-12T03:31:35.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIL-1778555035000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a029990a7bc26c41f3ab2b4"
+  },
+  "reg": "VH-XIH",
+  "lat": -27.51585,
+  "lon": 153.28778,
+  "created_at": {
+    "$date": "2026-05-12T03:07:54.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIH-1778555274000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a029a08a7bc26c41f3ab2b5"
+  },
+  "reg": "VH-XIH",
+  "lat": -27.57028,
+  "lon": 152.9984,
+  "created_at": {
+    "$date": "2026-05-12T03:19:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIH-1778555274000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a029fa8a7bc26c41f3ab2b6"
+  },
+  "reg": "VH-LF2",
+  "lat": -26.55195,
+  "lon": 151.842,
+  "created_at": {
+    "$date": "2026-05-12T03:33:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778556838000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02a020a7bc26c41f3ab2b7"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.57046,
+  "lon": 151.94594,
+  "created_at": {
+    "$date": "2026-05-12T04:05:24.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778556838000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02ab60a7bc26c41f3ab2b8"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.17408,
+  "lon": 151.31607,
+  "created_at": {
+    "$date": "2026-05-12T04:23:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778559838000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02abd8a7bc26c41f3ab2b9"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.484,
+  "lon": 153.02692,
+  "created_at": {
+    "$date": "2026-05-12T05:15:56.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778559838000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02abd8a7bc26c41f3ab2ba"
+  },
+  "reg": "VH-OFB",
+  "lat": -34.94048,
+  "lon": 138.52939,
+  "created_at": {
+    "$date": "2026-05-12T04:25:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-OFB-1778559958000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02ac50a7bc26c41f3ab2bb"
+  },
+  "reg": "VH-OFB",
+  "lat": -19.25391,
+  "lon": 146.77069,
+  "created_at": {
+    "$date": "2026-05-12T06:59:44.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-OFB-1778559958000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02acc8a7bc26c41f3ab2bc"
+  },
+  "reg": "VH-XIL",
+  "lat": -26.59856,
+  "lon": 153.08221,
+  "created_at": {
+    "$date": "2026-05-12T04:29:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIL-1778560197000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02adb8a7bc26c41f3ab2bd"
+  },
+  "reg": "VH-XIL",
+  "lat": -25.15259,
+  "lon": 151.46602,
+  "created_at": {
+    "$date": "2026-05-12T05:23:34.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIL-1778560197000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02b100a7bc26c41f3ab2be"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.57317,
+  "lon": 151.9518,
+  "created_at": {
+    "$date": "2026-05-12T04:47:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778561279000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02b178a7bc26c41f3ab2bf"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.54588,
+  "lon": 151.90443,
+  "created_at": {
+    "$date": "2026-05-12T04:49:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778561279000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02be2070fe1487132a9d6f"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.5093,
+  "lon": 153.04558,
+  "created_at": {
+    "$date": "2026-05-12T05:43:55.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778564635000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02be9870fe1487132a9d70"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.38359,
+  "lon": 153.13722,
+  "created_at": {
+    "$date": "2026-05-12T06:01:55.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778564635000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02c52870fe1487132a9d71"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.86847,
+  "lon": 151.15977,
+  "created_at": {
+    "$date": "2026-05-12T06:13:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIL-1778566438000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02c5a070fe1487132a9d72"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.896,
+  "lon": 152.31854,
+  "created_at": {
+    "$date": "2026-05-12T06:51:51.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIL-1778566438000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02df6870fe1487132a9d73"
+  },
+  "reg": "VH-URR",
+  "lat": -27.38292,
+  "lon": 153.13226,
+  "created_at": {
+    "$date": "2026-05-12T08:05:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-URR-1778573156000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02dfe070fe1487132a9d74"
+  },
+  "reg": "VH-URR",
+  "lat": -37.68882,
+  "lon": 144.85396,
+  "created_at": {
+    "$date": "2026-05-12T10:07:07.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-URR-1778573156000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02e23870fe1487132a9d75"
+  },
+  "reg": "VH-XCY",
+  "lat": -42.8394,
+  "lon": 147.56465,
+  "created_at": {
+    "$date": "2026-05-12T08:17:51.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XCY-1778573871000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02e3a070fe1487132a9d76"
+  },
+  "reg": "VH-XCY",
+  "lat": -42.8289,
+  "lon": 147.58987,
+  "created_at": {
+    "$date": "2026-05-12T08:33:55.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XCY-1778573871000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02e50870fe1487132a9d77"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.54521,
+  "lon": 151.91064,
+  "created_at": {
+    "$date": "2026-05-12T08:29:48.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778574588000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02e58070fe1487132a9d78"
+  },
+  "reg": "VH-LF2",
+  "lat": -26.53271,
+  "lon": 151.8394,
+  "created_at": {
+    "$date": "2026-05-12T08:59:56.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778574588000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02e8c870fe1487132a9d79"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.89728,
+  "lon": 152.31747,
+  "created_at": {
+    "$date": "2026-05-12T08:45:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIL-1778575559000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02e94070fe1487132a9d7a"
+  },
+  "reg": "VH-XIL",
+  "lat": -25.16674,
+  "lon": 151.66849,
+  "created_at": {
+    "$date": "2026-05-12T09:03:52.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIL-1778575559000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02ed0070fe1487132a9d7b"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.38366,
+  "lon": 153.13721,
+  "created_at": {
+    "$date": "2026-05-12T09:03:52.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778576632000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02ed7870fe1487132a9d7c"
+  },
+  "reg": "VH-LF3",
+  "lat": -28.6329,
+  "lon": 151.90762,
+  "created_at": {
+    "$date": "2026-05-12T10:07:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778576632000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02efd070fe1487132a9d7d"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.60195,
+  "lon": 153.08693,
+  "created_at": {
+    "$date": "2026-05-12T09:15:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778577359000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02f04870fe1487132a9d7e"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.53308,
+  "lon": 151.83981,
+  "created_at": {
+    "$date": "2026-05-12T09:51:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778577359000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02f9a870fe1487132a9d7f"
+  },
+  "reg": "VH-LF2",
+  "lat": -26.55517,
+  "lon": 151.84219,
+  "created_at": {
+    "$date": "2026-05-12T09:57:57.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778579877000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02fa2070fe1487132a9d80"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.57052,
+  "lon": 151.94595,
+  "created_at": {
+    "$date": "2026-05-12T10:33:51.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778579877000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02fc7870fe1487132a9d81"
+  },
+  "reg": "VH-XIL",
+  "lat": -25.15489,
+  "lon": 151.69789,
+  "created_at": {
+    "$date": "2026-05-12T10:09:55.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIL-1778580595000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a02fde070fe1487132a9d82"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.89633,
+  "lon": 152.3194,
+  "created_at": {
+    "$date": "2026-05-12T10:33:26.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIL-1778580595000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a03030870fe1487132a9d83"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.53301,
+  "lon": 151.84019,
+  "created_at": {
+    "$date": "2026-05-12T10:37:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778582279000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a03030870fe1487132a9d84"
+  },
+  "reg": "VH-LF5",
+  "lat": -27.56966,
+  "lon": 152.99908,
+  "created_at": {
+    "$date": "2026-05-12T11:33:53.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778582279000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a03056070fe1487132a9d85"
+  },
+  "reg": "VH-LF3",
+  "lat": -28.58652,
+  "lon": 151.92944,
+  "created_at": {
+    "$date": "2026-05-12T10:47:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778582879000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0305d870fe1487132a9d86"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.57049,
+  "lon": 151.94594,
+  "created_at": {
+    "$date": "2026-05-12T11:17:57.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778582879000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0308a870fe1487132a9d87"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.57053,
+  "lon": 151.94595,
+  "created_at": {
+    "$date": "2026-05-12T11:02:00.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778583720000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a03092070fe1487132a9d88"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.54497,
+  "lon": 151.90646,
+  "created_at": {
+    "$date": "2026-05-12T11:05:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778583720000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a030bf070fe1487132a9d89"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.89659,
+  "lon": 152.31866,
+  "created_at": {
+    "$date": "2026-05-12T11:15:56.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIL-1778584556000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a030c6870fe1487132a9d8a"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.89136,
+  "lon": 151.87688,
+  "created_at": {
+    "$date": "2026-05-12T11:27:56.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIL-1778584556000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0312f870fe1487132a9d8b"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.57048,
+  "lon": 151.94594,
+  "created_at": {
+    "$date": "2026-05-12T11:45:50.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF3-1778586350000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a03137070fe1487132a9d8c"
+  },
+  "reg": "VH-LF3",
+  "lat": -27.38379,
+  "lon": 153.13625,
+  "created_at": {
+    "$date": "2026-05-12T12:30:00.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF3-1778586350000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a03146070fe1487132a9d8d"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.54859,
+  "lon": 151.91624,
+  "created_at": {
+    "$date": "2026-05-12T11:51:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778586718000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0314d870fe1487132a9d8e"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.15886,
+  "lon": 151.27551,
+  "created_at": {
+    "$date": "2026-05-12T12:07:56.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778586718000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a031be070fe1487132a9d8f"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.87663,
+  "lon": 151.11078,
+  "created_at": {
+    "$date": "2026-05-12T12:23:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-XIL-1778588639000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a031c5870fe1487132a9d90"
+  },
+  "reg": "VH-XIL",
+  "lat": -24.89632,
+  "lon": 152.31941,
+  "created_at": {
+    "$date": "2026-05-12T13:05:51.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-XIL-1778588639000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0323d870fe1487132a9d91"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.18735,
+  "lon": 151.31073,
+  "created_at": {
+    "$date": "2026-05-12T12:57:59.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778590679000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a03245070fe1487132a9d92"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.57051,
+  "lon": 151.94597,
+  "created_at": {
+    "$date": "2026-05-12T13:23:59.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778590679000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a032a6870fe1487132a9d93"
+  },
+  "reg": "VH-LF5",
+  "lat": -27.57067,
+  "lon": 152.9985,
+  "created_at": {
+    "$date": "2026-05-12T13:26:00.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF5-1778592360000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a032ae070fe1487132a9d94"
+  },
+  "reg": "VH-LF5",
+  "lat": -26.59864,
+  "lon": 153.08224,
+  "created_at": {
+    "$date": "2026-05-12T13:55:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF5-1778592360000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a032f9070fe1487132a9d95"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.57052,
+  "lon": 151.94594,
+  "created_at": {
+    "$date": "2026-05-12T13:47:58.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-LF2-1778593678000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a03300870fe1487132a9d96"
+  },
+  "reg": "VH-LF2",
+  "lat": -27.54515,
+  "lon": 151.91066,
+  "created_at": {
+    "$date": "2026-05-12T13:51:58.000Z"
+  },
+  "is_start": false,
+  "is_end": true,
+  "reference": "VH-LF2-1778593678000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a0330f870fe1487132a9d97"
+  },
+  "reg": "VH-URR",
+  "lat": -37.6863,
+  "lon": 144.85344,
+  "created_at": {
+    "$date": "2026-05-12T13:54:01.000Z"
+  },
+  "is_start": true,
+  "is_end": false,
+  "reference": "VH-URR-1778594041000",
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a03317070fe1487132a9d98"
+  },
+  "reg": "VH-URR",
+  "lat": -34.63156,
+  "lon": 147.67705,
+  "created_at": {
+    "$date": "2026-05-12T14:38:00.000Z"
+  },
+  "is_start": false,
+  "is_end": false,
+  "reference": "VH-URR-1778594041000",
+  "__v": 0
+}]
